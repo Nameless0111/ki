@@ -1,3 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Films</string>
+    <string name="app_name">Ежедневник</string>
+    <string name="day">День</string>
+    <string name="week">Неделя</string>
+    <string name="month">Месяц</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="edit_event">Редактировать событие</string>
+    <string name="delete_event">Удалить событие</string>
+    <string name="event_title">Название события</string>
+    <string name="event_description">Описание события</string>
+    <string name="event_date">Дата события</string>
+    <string name="event_time">Время события</string>
+    <string name="event_priority">Приоритет</string>
+    <string name="low_priority">Низкий</string>
+    <string name="medium_priority">Средний</string>
+    <string name="high_priority">Высокий</string>
+    <string name="enable_notification">Включить уведомление</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="no_events">Нет событий на выбранный период</string>
+    <string name="sort_by_date">По дате</string>
+    <string name="sort_by_priority">По приоритету</string>
+    <string name="notification_title">Напоминание о событии</string>
 </resources>
